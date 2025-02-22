@@ -1,0 +1,2 @@
+utilisation avec RPI :
+https://www.instructables.com/How-to-Use-the-MPU6050-With-the-Raspberry-Pi-4/

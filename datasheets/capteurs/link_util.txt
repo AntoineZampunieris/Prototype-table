@@ -1,2 +1,5 @@
 utilisation avec RPI :
 https://www.instructables.com/How-to-Use-the-MPU6050-With-the-Raspberry-Pi-4/
+
+ADXL355 : https://www.analog.com/en/products/adxl355.html
+https://wiki.analog.com/resources/eval/user-guides/eval-adicup360/reference_designs/demo_adxl355

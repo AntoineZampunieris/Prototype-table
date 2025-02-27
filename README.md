@@ -46,11 +46,3 @@ git commit -m "Add feature"
 git push origin feature-name
 
 5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contact
-
-For any questions or suggestions, please contact yourname@example.com.
